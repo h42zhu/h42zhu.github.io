@@ -1,6 +1,6 @@
 # Mr. Zed Gamedev Blog
 
-## The time I engjoyed wasting
+## The time I enjoyed wasting
 
 Throughout my high school and university years, I enjoyed playing video games. Each game brought me great fun in many unique ways, some were competitive and intellectually challenging, some had deeply touching stories, some were nice distractions that could take one's mind off of stressful school life for a moment.
 
