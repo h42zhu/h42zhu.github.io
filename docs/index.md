@@ -1,4 +1,16 @@
-# Mr. Zed Gamedev Blog
+## Going solo
+
+How far can a person go when all alone? Probably not very far. I didn't feel like going to the gym when I had no gym buddy; I didn't like travelling unless I travel together with someone. I'm alway more motivated when doing things with a group of friends. The peer pressure, the camaraderie, the increased specialization - all these are wonderful factors that can potentially push a difficult project to completion.
+
+When I had an idea for a game, my first thought was to find friends who might be interested. I know how to program, so I sought artists and other other programmers from the people I knew. I naively thought this could be like forming a club of like-minded people, working together towards a common goal.
+
+That was not the case.
+
+I soon learned that other people have different priorities and agendas. Interest doesn't mean commitment. It's hard to keep momentum going after the initial interest fades and the tedious and difficult task of actually making things begins, and the "club" soon falls apart.
+
+Unless one's extremely lucky that one can find someone who's truly passionate about the game idea, or unless one's very rich, going solo might be most viable option, at least initially.
+
+I don't think I'm good at being a solo developer. I lack self-discipline. I have no artistic talent. I'm disorganized. But if this is the only way forward, I guess I'll take this path.
 
 ## The time I enjoyed wasting
 
@@ -8,4 +20,7 @@ Sometimes I had ideas popping up in my head about making my own game, but I didn
 
 Later after I'd started working, I felt something was missing. All the activities that were supposed to be fun and memorable -  going to parties, travelling, finding new restaurants, buying different stuffs - were certainly good things to experience, but I felt a vague long of something different, something that can accumulate, something meaningful, something I can call my own.
 
-So I picked up game development. I knew creative endeavors like this were hard. I never set any explicit goals for myself, and I still spent way to time on playing video games than making my game. But as long as I made a little of of progress now and then I'd be satisfied. I wasted a lot of time on trying out different engines and prototyping failed ideas, just like I wasted a lot of time playing times. But that's okay. The time I enjoyed wasting is not wasted.
+So I picked up game development. I knew creative endeavors like this were hard. I never set any explicit goals for myself, and I still spent way to time on playing video games than making my game. But as long as I made a little of of progress now and then I'd be satisfied. I wasted a lot of time on trying out different engines and prototyping failed ideas, just like how I wasted a lot of time playing games. But that's okay, for the time I enjoyed wasting ... is not wasted.
+
+## Contact Info
+Email: henryzhudemon@gmail.com
