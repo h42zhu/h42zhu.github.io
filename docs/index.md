@@ -1,3 +1,17 @@
+## The art of subtraction
+
+For my dream game I wanted it to have everything. Immersive world-building, multiple branching storylines with meaningful choices, epic soundtrack, memorable heros and villians, references to books and history, unique art style, and more. I guess we're allowed to indulge ourselves with wishful thinking sometimes. But for a solo developer, one has to start in the realm of the possible.
+
+My first game, Luxiana Flight of the Witch, a 2D side-scrolling shooter, was actually the result of a series of compromises and subtractions.
+
+Originally, I wanted to make a 2D Castlevania style action game. The good thing about this type of game is that there're plenty of video tutorials online and I was able to implement the game mechanics like jumping and camera follow without much issue.
+
+But soon I found a problem. I was just a beginner at pixel art drawings. While I managed to draw the main character and all the different frames for animating actions such as running and jumping, when I put it all together, the animation looked awkward and laughable. I quickly realized that this was an obstacle that I couldn't overcome easily. Maybe in the future I could become a decent pixel artist with tons of practices, but for now it wasn't the hill that I was ready to die on. So I ditched the platformer concept and changed it to a 2D shooter, which was much easier on the animation side.
+
+For a shooting game, I wanted to implement a shop system between the stages, so that the player can buy health potions or power-ups before the next stage. This required me to learn about how to make UI in the game engine, which, not surprisingly, was very different than how I used to make UI components on the web. Pretty soon I started feeling demotivated while trying to create the shop UI, so I reduced the scope of my plan and ditched the shop idea all together.
+
+Having to throw away stuff is not a good feeling. But one thing that I learned about being a solo game developer is that, getting things done is much more important than making things beautiful. For the first game, I'd rather have a functioning bicycle than a broken car.
+
 ## Going solo
 
 How far can a person go when all alone? Probably not very far. I didn't feel like going to the gym when I had no gym buddy; I didn't like travelling unless I travel together with someone. I'm alway more motivated when doing things with a group of friends. The peer pressure, the camaraderie, the increased specialization - all these are wonderful factors that can potentially push a difficult project to completion.
